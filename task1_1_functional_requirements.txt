@@ -1,0 +1,13 @@
+Task 1.1 - Functional Requirements for Contact Management CLI
+
+1. The system shall allow a user to create a new contact with first name, last name, company, and job title.
+2. The system shall allow a user to add zero or more phone numbers to a contact.
+3. The system shall allow a user to assign a label to each phone number (for example: Home, Work, Mobile).
+4. The system shall allow a user to add zero or more email addresses to a contact.
+5. The system shall allow a user to assign a label to each email address (for example: Home, Work).
+6. The system shall allow a user to search through contacts.
+7. The system shall display matching contact records for a search operation.
+8. The system shall allow a user to update an existing contact.
+9. The system shall allow a user to delete an existing contact.
+10. The system shall allow a user to identify duplicate contacts.
+11. The system shall allow a user to merge duplicate contacts into a single contact record.
